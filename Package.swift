@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/IGRSoft/SimplePing.git",
+            url: "https://github.com/Agnidia/SimplePing.git",
             from: "0.1.2")
     ],
     targets: [
